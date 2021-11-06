@@ -2904,3 +2904,84 @@ Command-line arguments:  -data file:/home/emiliano/Embebidos/PdM_workspace/ -os 
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-10-26 21:59:49.591
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2021-10-28 21:21:39.109 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-10-28 21:21:54.998
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-10-28 21:21:55.218
+!MESSAGE Log4j initialized with config file /home/emiliano/Embebidos/PdM_workspace/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-10-28 21:22:11.356
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2021-11-03 21:44:34.252 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-03 21:44:50.472
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-03 21:44:50.772
+!MESSAGE Log4j initialized with config file /home/emiliano/Embebidos/PdM_workspace/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-03 21:45:06.853
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2021-11-04 01:15:24.282 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-04 01:15:38.266
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-04 01:15:38.463
+!MESSAGE Log4j initialized with config file /home/emiliano/Embebidos/PdM_workspace/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-04 01:15:51.920
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2021-11-05 18:57:57.599 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-05 18:58:15.572
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-05 18:58:15.844
+!MESSAGE Log4j initialized with config file /home/emiliano/Embebidos/PdM_workspace/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-05 18:58:30.714
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2021-11-05 19:51:41.185 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -data file:/home/emiliano/Embebidos/PdM_workspace/ -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-05 19:51:52.354
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-05 19:51:52.517
+!MESSAGE Log4j initialized with config file /home/emiliano/Embebidos/PdM_workspace/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-05 19:52:05.829
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-05 21:04:02.049
+!MESSAGE Indexed 'Practica_0_v2' (98 sources, 208 headers) in 34 sec: 29.804 declarations; 90.527 references; 6 unresolved inclusions; 1.836 syntax errors; 1.822 unresolved names (1,5 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-05 21:06:03.255
+!MESSAGE Indexed 'Practica_1' (98 sources, 208 headers) in 21,6 sec: 29.807 declarations; 90.514 references; 6 unresolved inclusions; 1.836 syntax errors; 1.822 unresolved names (1,5 %)
