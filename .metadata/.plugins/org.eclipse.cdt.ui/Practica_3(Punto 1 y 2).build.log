@@ -1,0 +1,13 @@
+00:54:42 **** Incremental Build of configuration Debug for project Practica_3(Punto 1 y 2) ****
+make -j2 all 
+arm-none-eabi-size   Practica_3(Punto\ 1\ y\ 2).elf 
+/bin/sh: 1: Syntax error: "(" unexpected
+arm-none-eabi-objdump -h -S  Practica_3(Punto\ 1\ y\ 2).elf  > "Practica_3(Punto 1 y 2).list"
+make: *** [makefile:75: default.size.stdout] Error 2
+make: *** Waiting for unfinished jobs....
+/bin/sh: 1: Syntax error: "(" unexpected
+make: *** [makefile:80: Practica_3(Punto 1 y 2).list] Error 2
+"make -j2 all" terminated with exit code 2. Build might be incomplete.
+
+00:54:43 Build Failed. 3 errors, 0 warnings. (took 644ms)
+

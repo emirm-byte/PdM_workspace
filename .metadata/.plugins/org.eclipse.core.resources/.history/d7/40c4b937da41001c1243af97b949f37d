@@ -1,0 +1,4 @@
+Drivers/API/src/API_delay.o: ../Drivers/API/src/API_delay.c \
+ /home/emiliano/Embebidos/PdM_workspace/Practica_3/Drivers/API/inc/API_delay.h
+
+/home/emiliano/Embebidos/PdM_workspace/Practica_3/Drivers/API/inc/API_delay.h:

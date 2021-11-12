@@ -1,0 +1,4 @@
+Drivers/API/src/API_delay.o: ../Drivers/API/src/API_delay.c \
+ ../Drivers/API/src/../inc/API_delay.h
+
+../Drivers/API/src/../inc/API_delay.h:

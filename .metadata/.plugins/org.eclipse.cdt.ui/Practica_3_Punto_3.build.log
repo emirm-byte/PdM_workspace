@@ -1,0 +1,10 @@
+22:53:47 **** Incremental Build of configuration Debug for project Practica_3_Punto_3 ****
+make -j2 all 
+arm-none-eabi-size   Practica_3_Punto_3.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7148	     36	   1588	   8772	   2244	Practica_3_Punto_3.elf
+Finished building: default.size.stdout
+ 
+
+22:53:48 Build Finished. 0 errors, 0 warnings. (took 584ms)
+
